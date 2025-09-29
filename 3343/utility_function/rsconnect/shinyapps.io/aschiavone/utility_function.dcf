@@ -1,0 +1,12 @@
+name: utility_function
+title: utility_function
+username: aschiavone
+account: aschiavone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15310981
+bundleId: 10840624
+url: https://aschiavone.shinyapps.io/utility_function/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

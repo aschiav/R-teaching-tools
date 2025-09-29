@@ -1,0 +1,12 @@
+name: average_marginal
+title: average_marginal
+username: aschiavone
+account: aschiavone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15348667
+bundleId: 10934906
+url: https://aschiavone.shinyapps.io/average_marginal/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

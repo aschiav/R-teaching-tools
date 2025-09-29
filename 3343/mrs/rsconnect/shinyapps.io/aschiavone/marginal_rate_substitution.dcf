@@ -1,0 +1,12 @@
+name: marginal_rate_substitution
+title: marginal_rate_substitution
+username: aschiavone
+account: aschiavone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15553043
+bundleId: 10948513
+url: https://aschiavone.shinyapps.io/marginal_rate_substitution/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

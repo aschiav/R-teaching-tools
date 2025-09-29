@@ -1,0 +1,12 @@
+name: budget_constraint
+title: budget_constraint
+username: aschiavone
+account: aschiavone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15553271
+bundleId: 10948608
+url: https://aschiavone.shinyapps.io/budget_constraint/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
