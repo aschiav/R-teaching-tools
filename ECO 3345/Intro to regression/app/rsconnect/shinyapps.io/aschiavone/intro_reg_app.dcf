@@ -1,0 +1,12 @@
+name: intro_reg_app
+title: intro_reg_app
+username: aschiavone
+account: aschiavone
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18012742
+bundleId: 12605299
+url: https://aschiavone.shinyapps.io/intro_reg_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
