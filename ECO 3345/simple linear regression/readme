@@ -1,1 +1,12 @@
 An activity for teaching simple linear regression
+
+1.	Go to “Canvas > Files > Datasets> Group datasets” and download your group’s dataset.
+2.	Load into RStudio. Hint: Use read.csv() function
+3.	Inspect the data. Identify the independent variable (first column) and dependent variable (second column). Which one is X? Y?
+4.	Discuss your prior regarding the relationship Y=f(X). What is the “mechanism”?
+5.	Summarize the data. Hint: use the skim() function, which you load using library(skimr).
+6.	Plot the data in a scatterplot. Hint: you will need library(tidyverse) and use ggplot()+geom_point().
+7.	Estimate and store the model. Hint: model<-lm(formula=    , data =       )
+8.	Summarize the model. Hint: summary(model)
+9.	Identify the model coefficients and R^2 value. Interpret each. How do they conform to your prior from step 4? 
+10.	Use your estimated model to make one prediction.
