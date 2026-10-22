@@ -128,8 +128,3 @@ The supplied script includes:
 
 To add more teams, copy a team block, change its label, and replace the 10 allocation values.
 
-**Plotting note:** The existing Lorenz-curve helper omits the origin `(0, 0)` and labels its first observation at zero on the population axis. For a mathematically accurate Lorenz curve, the cumulative population values should run from `0` to `1` in steps of `1/10`, and cumulative income shares should start at `0`. This is a recommended adjustment to the R script.
-
-## License
-
-For classroom use. Add your preferred license if you publish the activity publicly.
